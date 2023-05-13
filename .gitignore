@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+logs/
+
+# Generated files
+dist/
+
+# IDE files
+.vscode/
+.idea/
+
+# VIM swap files
+*.swp
+*.swn
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
